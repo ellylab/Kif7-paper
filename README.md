@@ -9,6 +9,8 @@
 - Sequence Read Archive (SRA)
 - PRJNA752243
 - https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243
+- SRR15465838
+- SRR15465837
 
 # Email
 - ellyngan engan@hku.hk
