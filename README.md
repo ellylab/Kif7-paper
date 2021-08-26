@@ -5,12 +5,15 @@
 - All annotated code showing key steps of the analysis are available on GitHub at https://github.com/ellylab/Kif7-paper.
 
 
-# raw data
-- Sequence Read Archive (SRA)
-- PRJNA752243
-- https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243
+# raw data in Sequence Read Archive (SRA)
+- PRJNA752243: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243
 - SRR15465838
 - SRR15465837
+
+# Scripts
+- Ctrl_YFP_ENCC.count.sh and Kif7l-YFP-ENCC.count.sh: raw fastq to UMI count matrices
+- integration.R: UMI count matrices integration
+- Kif7_main.R: data processing and figures making 
 
 # Email
 - ellyngan engan@hku.hk
