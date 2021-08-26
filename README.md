@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/312493787.svg)](https://zenodo.org/badge/latestdoi/312493787)
+
 # Kif7-paper
 - All data needed to evaluate the conclusions in the paper are present in the paper and/or the Supplementary Materials. 
 - Raw and processed sequencing data can be obtained from the Sequence Read Archive (SRA) at the NCBI Center with the accession number PRJNA752243 and is available at https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243. 
