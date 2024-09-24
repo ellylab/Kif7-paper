@@ -6,6 +6,8 @@
 - Additional data related to this paper may be requested from E.S.W.N. 
 - All annotated code showing key steps of the analysis are available on GitHub at https://github.com/ellylab/Kif7-paper.
 
+# Processed data
+- https://doi.org/10.5281/zenodo.13835750
 
 # raw data in Sequence Read Archive (SRA)
 - PRJNA752243: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243
