@@ -7,7 +7,8 @@
 - All annotated code showing key steps of the analysis are available on GitHub at https://github.com/ellylab/Kif7-paper.
 
 # Processed data
-- https://doi.org/10.5281/zenodo.13835750
+- https://zenodo.org/records/15795444?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjA0NjA4MzZhLTgzODAtNGRiNy04NmEyLWRlZjRmZWUxZTJhYSIsImRhdGEiOnt9LCJyYW5kb20iOiI5Y2U3Njk0MjI1YzY0Y2IyMDIwYWJjNWZjZmQzOTgwMCJ9.u9rTRg5C66gdnsqGW9SGC0l88rqqZoHwGSOLg1LzS-XJElU7dpPr1MZYKEm-h6hXQdedflaoFwaXAtugZYQLcQ
+
 
 # raw data in Sequence Read Archive (SRA)
 - PRJNA752243: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA752243
